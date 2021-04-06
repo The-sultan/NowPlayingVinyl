@@ -1,0 +1,17 @@
+{
+  "name": "nowplayingvinyl",
+  "version": "1.0.0",
+  "description": "Utility for recognizing music through mic and sending now playing info to device",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Farid Elias",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "form-data": "^2.3.3",
+    "node-mic-record": "^0.0.1",
+    "request": "^2.88.2"
+  }
+}
